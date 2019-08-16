@@ -1,6 +1,6 @@
 #!/bin/bash
 
-repo=mtinny/nginx-toolbox
+repo=mtinny/nginx-nonroot
 tag=${tag:-v0.0.1}
 
 image="${repo}:${tag}"
